@@ -1,6 +1,6 @@
-# StoreOps API - .NET 8 Step 1 Baseline
+# StoreOps API
 
-A non-production reference scaffold for retail store operations, aligned to the capstone Step 1 specification.
+A non-production reference scaffold for retail store operations, aligned to the capstone specification.
 
 ## Prerequisites
 - .NET 8 SDK
