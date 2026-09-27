@@ -1,0 +1,17 @@
+@base=http://localhost:5000
+GET {{base}}/api/activities
+###
+POST {{base}}/api/activities
+Content-Type: application/json
+
+{"title":"Restock aisle 4","priority":"HIGH","category":"RESTOCKING"}
+###
+GET {{base}}/api/programmes
+###
+POST {{base}}/api/programmes
+Content-Type: application/json
+
+{"name":"Seasonal rollout"}
+###
+GET {{base}}/api/alerts
+X-User-Id: 00000000-0000-0000-0000-000000000001

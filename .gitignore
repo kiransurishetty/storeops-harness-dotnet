@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.suo
+.harness/output/*
+!.harness/output/.gitkeep

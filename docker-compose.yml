@@ -1,0 +1,5 @@
+services:
+  storeops-api:
+    build: .
+    ports:
+      - "5000:8080"
