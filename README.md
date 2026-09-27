@@ -3,7 +3,7 @@
 A non-production reference scaffold for retail store operations, aligned to the capstone specification.
 
 ## Prerequisites
-- .NET 8 SDK
+- .NET 10 SDK
 - Git
 - Optional: Docker
 
